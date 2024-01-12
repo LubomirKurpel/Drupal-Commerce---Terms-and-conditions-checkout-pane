@@ -1,0 +1,9 @@
+name: Grafeon Commerce - Terms and Conditions
+description: Pridáva zaklikávatko na terms and conditions pre Drupal Commerce 8
+package: Grafeon
+
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:commerce
